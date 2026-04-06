@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #FF6A00;">Hi, I'm Sergio/h1>
+  <h1 style="color: #FF6A00;">Hi, I'm Sergio </h1>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
