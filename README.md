@@ -6,9 +6,11 @@
 
 <br><br>
 
+<div align="center">
 <img src="https://img.shields.io/github/followers/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
 <img src="https://img.shields.io/github/stars/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
 <img src="https://komarev.com/ghpvc/?username=Thesergio3434xd-1&label=Profile+Views&color=FF6A00&style=for-the-badge" />
+</div>
 
 </div>
 
@@ -18,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=520&lines=About+Me" alt="About Me" />
 </p>
 
-<table align="left" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
     <td align="left" width="40%" valign="middle" style="border:none;">
       <img src="Anime.png" width="280" alt="Anime illustration" />
@@ -140,7 +142,7 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
 
 <table align="left" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="left" width="220" style="border:none;">
+    <td align="center" width="220" style="border:none;">
       <a href="https://github.com/Thesergio3434xd-1/MyHosp">
         <img src="https://img.shields.io/badge/MyHosp-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -151,7 +153,7 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
       <br><br>
       <sub>Proyecto de gestion hospitalaria</sub>
     </td>
-    <td align="left" width="220" style="border:none;">
+    <td align="center" width="220" style="border:none;">
       <a href="https://github.com/Thesergio3434xd-1/SpeciesCol">
         <img src="https://img.shields.io/badge/SpeciesCol-22C55E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -165,7 +167,7 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
   </tr>
 
   <tr>
-    <td align="left" width="220" style="border:none;">
+    <td align="center" width="220" style="border:none;">
       <a href="https://github.com/Thesergio3434xd-1/RoBERTa">
         <img src="https://img.shields.io/badge/RoBERTa-F97316?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -176,7 +178,7 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
       <br><br>
       <sub>Repositorio relacionado con IA / NLP</sub>
     </td>
-    <td align="left" width="220" style="border:none;">
+    <td align="center" width="220" style="border:none;">
       <a href="https://github.com/Thesergio3434xd-1/Cursos-Platzi">
         <img src="https://img.shields.io/badge/Cursos--Platzi-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -198,12 +200,12 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=560&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
-<table align="left" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="left" width="45%" style="border:none;">
+    <td align="center" width="45%" style="border:none;">
       <img src="https://streak-stats.demolab.com?user=Thesergio3434xd-1&theme=onedark&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" width="100%" alt="GitHub Streak Stats" />
     </td>
-    <td align="left" width="45%" style="border:none;">
+    <td align="center" width="45%" style="border:none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thesergio3434xd-1&theme=onedark" width="100%" alt="Profile Details" />
     </td>
   </tr>
@@ -255,7 +257,7 @@ Academic High School Graduate (2020) - Colegio Vista Bella IED
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%A4%9D+Connect+with+Me" alt="Connect with Me" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sergio-alejandro-uribe-montealegre-791b85258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
