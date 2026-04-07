@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,35:1f1f1f,70:FF6A00,100:ff9a3c&height=220&section=header&text=Sergio%20Montealegre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Creative%20Tech%20Enthusiast&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3200&pause=900&color=FF6A00&center=true&vCenter=true&width=900&lines=Systems+Engineer;Software+Developer;Game+Development+Enthusiast;Anime+Lover;Video+Editor+%26+Streamer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3200&pause=900&color=FF6A00&center=true&vCenter=true&width=900&lines=Systems+Engineer;Software+Developer;Frontend+%26+Backend+Learner;AI+%2F+Data+Enthusiast;Video+Editor+%26+Streamer" alt="Typing SVG" />
 
 <br><br>
 
@@ -20,103 +20,104 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
+---
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=520&lines=About+Me" alt="About Me" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+Soy ingeniero de sistemas y desarrollador de software con enfoque en crear proyectos utiles, visualmente atractivos y con impacto real.
+</p>
 
-</div>
+<p align="center">
+Interes: desarrollo web (frontend/backend), datos, IA y experiencias digitales. <br>
+Fortaleza: pensamiento analitico, aprendizaje rapido y adaptabilidad. <br>
+Objetivo: seguir creciendo como desarrollador full stack y construir soluciones innovadoras. <br>
+Extra: tambien disfruto la edicion de video, el streaming y los videojuegos.
+</p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="68%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-- 🎓 Systems Engineer passionate about technology, software development, and creative digital projects.
-- 💡 Interested in front-end development, game development, and interactive experiences.
-- 🧠 Recognized for analytical thinking, adaptability, and continuous learning.
-- 🚀 Focused on building innovative and practical solutions for real-world problems.
-- 🎮 I enjoy combining technical skills with creativity through gaming, video editing, and streaming.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=540&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+</p>
 
-### 💻 What I Do
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cs,html,css&theme=dark" />
+</p>
 
-- Software development  
-- Front-end development  
-- Game development  
-- Video editing and digital content creation  
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&theme=dark" />
+</p>
 
-    </td>
-    <td align="center" width="32%">
-      <img 
-        src="https://th.bing.com/th/id/R.345192a82fd1618c77c72fb920b25f99?rik=Kw%2bhOa4LYwVlKA&pid=ImgRaw&r=0" 
-        alt="Side GIF" 
-        width="170"
-      >
-    </td>
-  </tr>
-</table>
+<h3 align="center">Backend y Runtime</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
+<h3 align="center">Base de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
 
-<div align="center">
+<h3 align="center">Ciencia de Datos y Documentacion Tecnica</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
-## 🛠️ Tech Stack
+<h3 align="center">Herramientas de Desarrollo</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+</p>
 
-### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,py,dotnet&theme=dark&perline=8" />
-</a>
+<h3 align="center">IDEs y Plataformas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse&theme=dark" />
+</p>
 
-<br><br>
+<h3 align="center">Diseno y Creatividad</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,blender,unity&theme=dark" />
+</p>
 
-### Web Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=8" />
-</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=620&lines=%E2%9D%A4%EF%B8%8F+Personal+Interests" alt="Personal Interests" />
+</p>
 
-### Database & API Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postman&theme=dark&perline=8" />
-</a>
+<p align="center">
+Edicion de video, streaming, videojuegos, anime y creacion de contenido digital.
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-### Development Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=700&lines=%F0%9F%8C%8D+Language+Proficiency" alt="Language Proficiency" />
+</p>
 
-<br><br>
+<p align="center">
+Espanol: nativo. <br>
+Ingles: en aprendizaje continuo con enfoque tecnico.
+</p>
 
-### Game Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark&perline=8" />
-</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-<br><br>
-
-### Design & Editing
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ps,ae&theme=dark&perline=8" />
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%8C%9F+Featured+Projects" alt="Featured Projects" />
+</p>
 
 <table align="center">
   <tr>
@@ -129,7 +130,7 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark&perline=4" />
       </a>
       <br><br>
-      <sub>Hospital management / software project</sub>
+      <sub>Proyecto de gestion hospitalaria</sub>
     </td>
     <td align="center" width="260">
       <a href="https://github.com/Thesergio3434xd-1/SpeciesCol">
@@ -140,7 +141,7 @@
         <img src="https://skillicons.dev/icons?i=py,html,css,github&theme=dark&perline=4" />
       </a>
       <br><br>
-      <sub>Nature / species themed development project</sub>
+      <sub>Proyecto tematico de naturaleza y especies</sub>
     </td>
   </tr>
 
@@ -154,7 +155,7 @@
         <img src="https://skillicons.dev/icons?i=py,vscode,github,linux&theme=dark&perline=4" />
       </a>
       <br><br>
-      <sub>AI / NLP related repository</sub>
+      <sub>Repositorio relacionado con IA / NLP</sub>
     </td>
     <td align="center" width="260">
       <a href="https://github.com/Thesergio3434xd-1/Cursos-Platzi">
@@ -165,18 +166,20 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark&perline=4" />
       </a>
       <br><br>
-      <sub>Learning notes and practice repository</sub>
+      <sub>Repositorio de aprendizaje y practica</sub>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=560&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+</p>
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=Thesergio3434xd-1&theme=transparent&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" />
 
@@ -185,120 +188,53 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%93+Education" alt="Education" />
+</p>
 
-## 📈 OSS Insight
+<p align="center">
+Systems Engineer - Universidad Cooperativa de Colombia <br>
+Academic High School Graduate (2020) - Colegio Vista Bella IED
+</p>
 
-<table>
-  <tr>
-    <th align="center">Currently Working On · Last 28 Days</th>
-    <th align="center">Top Active Contributors · Last 28 Days</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=110683543" target="_blank">
-        <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=110683543&image_size=auto&color_scheme=dark" width="380" alt="Currently Working On" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=921465492" target="_blank" style="display: block" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=921465492&image_size=auto&color_scheme=dark" width="373" height="auto">
-          <img alt="Top Contributors of Thesergio3434xd-1/Thesergio3434xd-1 - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=921465492&image_size=auto&color_scheme=light" width="373" height="auto">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
-
-<div align="center">
-
-## 🎓 Education
-
-</div>
-
-- **Systems Engineer**  
-  *Universidad Cooperativa de Colombia*
-
-- **Academic High School Graduate (2020)**  
-  *Colegio Vista Bella IED*
-
----
-
-<div align="center">
-
-## 📜 Certificates
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=620&lines=%F0%9F%93%9C+Certificaciones" alt="Certificaciones" />
+</p>
 
 <details>
-  <summary><strong>Click to view certifications</strong></summary>
+  <summary><strong>Ver certificaciones</strong></summary>
   <br>
 
-- Personal Development G4 – UNO (2022)
-- Beginner Programming G4 – ONE (2023)
-- Business Agility G4 – UNO (2023)
+- Personal Development G4 - UNO (2022)
+- Beginner Programming G4 - ONE (2023)
+- Business Agility G4 - UNO (2023)
 - HTML & CSS (2023)
 - Oracle Next Education F2 T4 Front-End (2023)
 - Problem-Solving & Decision-Making (2024)
-- JavaScript Programming – GeneracionTIC (50 hours, 2024)
-- Cybersecurity – GeneracionTIC (50 hours, 2024)
+- JavaScript Programming - GeneracionTIC (50 horas, 2024)
+- Cybersecurity - GeneracionTIC (50 horas, 2024)
 - Online English Learning Strategies (2024)
-- NDG Linux Unhatched – Cisco Networking Academy (2024)
+- NDG Linux Unhatched - Cisco Networking Academy (2024)
 
 </details>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%A4%9D+Connect+with+Me" alt="Connect with Me" />
+</p>
 
-## ❤️ Personal Interests
-
-My passion for video games, anime, and digital content creation inspires both my personal and professional path. I enjoy learning new technologies, exercising, editing videos, and streaming, because they help me stay creative, disciplined, and connected with others.
-
-<br><br>
-
-<img 
-  src="https://th.bing.com/th/id/R.345192a82fd1618c77c72fb920b25f99?rik=Kw%2bhOa4LYwVlKA&pid=ImgRaw&r=0" 
-  alt="Side GIF" 
-  width="150"
-/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
-
-<div align="center">
-
-## 🌍 Language Proficiency
-
-</div>
-
-- **English:** A1
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Separator">
-</div>
-
-<div align="center">
-
-## 🤝 Connect with Me
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sergio-alejandro-uribe-montealegre-791b85258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -322,10 +258,12 @@ My passion for video games, anime, and digital content creation inspires both my
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile ✨
+### Thanks for visiting my profile
 
 </div>
