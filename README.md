@@ -4,15 +4,9 @@
 
 <br><br>
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
-<img src="https://img.shields.io/github/stars/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
-<img src="https://komarev.com/ghpvc/?username=Thesergio3434xd-1&label=Profile+Views&color=FF6A00&style=for-the-badge" />
-</div>
-
-</div>
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=520&lines=About+Me" alt="About Me" />
@@ -46,6 +40,13 @@
   </tr>
 </table>
 
+<div align="center">
+<img src="https://img.shields.io/github/followers/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
+<img src="https://img.shields.io/github/stars/Thesergio3434xd-1?style=for-the-badge&color=FF6A00&labelColor=1b1b1b" />
+<img src="https://komarev.com/ghpvc/?username=Thesergio3434xd-1&label=Profile+Views&color=FF6A00&style=for-the-badge" />
+</div>
+
+</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
