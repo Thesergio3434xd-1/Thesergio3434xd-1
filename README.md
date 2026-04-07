@@ -14,14 +14,14 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=520&lines=About+Me" alt="About Me" />
 </p>
 
 <table align="left" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
     <td align="left" width="40%" valign="middle" style="border:none;">
-      <img src="Anime.png" width="200" alt="Anime illustration" />
+      <img src="Anime.png" width="280" alt="Anime illustration" />
     </td>
     <td align="left" width="60%" valign="middle" style="border:none;">
       <p>
@@ -46,70 +46,70 @@
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=540&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 </p>
 
 <h3 align="left">Lenguajes</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cs,html,css&theme=dark" height="40" />
 </p>
 
 <h3 align="left">Frontend</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&theme=dark" height="40" />
 </p>
 
 <h3 align="left">Backend y Runtime</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark" height="40" />
 </p>
 
 <h3 align="left">Base de Datos</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/postgreesql.png" width="32" alt="PostgREST" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="32" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/xampp.png" width="32" alt="XAMPP" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="30" alt="PostgREST" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/xampp.png" width="30" alt="XAMPP" />
 </p>
 
 <h3 align="left">Ciencia de Datos y Documentacion Tecnica</h3>
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/jupyter.png" width="32" alt="Jupyter" />
-  <img src="https://img.icons8.com/color/48/latex.png" width="32" alt="LaTeX" />
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" width="30" alt="Jupyter" />
+  <img src="https://img.icons8.com/color/48/latex.png" width="30" alt="LaTeX" />
 </p>
 
 <h3 align="left">AI Tools</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/chatgpt.png" width="32" alt="ChatGPT" />
-  <img src="https://img.icons8.com/fluency/48/github-copilot.png" width="32" alt="GitHub Copilot" />
-  <img src="https://img.icons8.com/color/48/gemini-ai.png" width="32" alt="Gemini" />
-  <img src="https://img.icons8.com/fluency/48/claude.png" width="32" alt="Claude" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="30" alt="ChatGPT" />
+  <img src="https://img.icons8.com/fluency/48/github-copilot.png" width="30" alt="GitHub Copilot" />
+  <img src="https://img.icons8.com/color/48/gemini-ai.png" width="30" alt="Gemini" />
+  <img src="https://img.icons8.com/fluency/48/claude.png" width="30" alt="Claude" />
 </p>
 
 <h3 align="left">Herramientas de Desarrollo</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" height="40" />
 </p>
 
 <h3 align="left">IDEs y Plataformas</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse&theme=dark" height="40" />
 </p>
 
 <h3 align="left">Diseno y Creatividad</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ae,blender,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,blender,unity&theme=dark" height="40" />
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=620&lines=%E2%9D%A4%EF%B8%8F+Personal+Interests" alt="Personal Interests" />
 </p>
 
@@ -117,11 +117,11 @@
 Edicion de video, streaming, videojuegos, anime y creacion de contenido digital.
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=700&lines=%F0%9F%8C%8D+Language+Proficiency" alt="Language Proficiency" />
 </p>
 
@@ -130,11 +130,11 @@ Espanol: nativo. <br>
 Ingles: en aprendizaje continuo con enfoque tecnico.
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%8C%9F+Featured+Projects" alt="Featured Projects" />
 </p>
 
@@ -190,11 +190,11 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=560&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
@@ -209,11 +209,11 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%93+Education" alt="Education" />
 </p>
 
@@ -222,11 +222,11 @@ Systems Engineer - Universidad Cooperativa de Colombia <br>
 Academic High School Graduate (2020) - Colegio Vista Bella IED
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=620&lines=%F0%9F%93%9C+Certificaciones" alt="Certificaciones" />
 </p>
 
@@ -247,11 +247,11 @@ Academic High School Graduate (2020) - Colegio Vista Bella IED
 
 </details>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%A4%9D+Connect+with+Me" alt="Connect with Me" />
 </p>
 
@@ -279,8 +279,8 @@ Academic High School Graduate (2020) - Colegio Vista Bella IED
   </a>
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" alt="section separator" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
 </p>
 
 <div align="left">
@@ -288,4 +288,6 @@ Academic High School Graduate (2020) - Colegio Vista Bella IED
 ### Thanks for visiting my profile
 
 </div>
+
+
 
