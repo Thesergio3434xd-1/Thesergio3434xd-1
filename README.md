@@ -1,16 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,35:1f1f1f,70:FF6A00,100:ff9a3c&height=220&section=header&text=Sergio%20Montealegre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Creative%20Tech%20Enthusiast&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,35:1f1f1f,70:FF6A00,100:ff9a3c&height=220&section=header&text=Hello%2C%20I%27m%20Sergio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Creative%20Tech%20Enthusiast&descAlignY=58&descSize=16" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3200&pause=900&color=FF6A00&center=true&vCenter=true&width=900&lines=Systems+Engineer;Software+Developer;Frontend+%26+Backend+Learner;AI+%2F+Data+Enthusiast;Video+Editor+%26+Streamer" alt="Typing SVG" />
-
-<br><br>
-
-<img 
-  src="https://th.bing.com/th/id/R.9e8678a16becc8b10301d4b3d281bbfb?rik=LxXwfLuYq7bVSA&riu=http%3a%2f%2freve-of-manga.r.e.pic.centerblog.net%2fa93c1bd1.gif&ehk=QrnQc0ZyxlSs2VryIwyKpgWqhFKuelmEMjdXQSa4evk%3d&risl=&pid=ImgRaw&r=0" 
-  width="420" 
-  alt="Anime GIF"
-/>
 
 <br><br>
 
@@ -26,16 +18,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=520&lines=About+Me" alt="About Me" />
 </p>
 
-<p align="center">
-Soy ingeniero de sistemas y desarrollador de software con enfoque en crear proyectos utiles, visualmente atractivos y con impacto real.
-</p>
-
-<p align="center">
-Interes: desarrollo web (frontend/backend), datos, IA y experiencias digitales. <br>
-Fortaleza: pensamiento analitico, aprendizaje rapido y adaptabilidad. <br>
-Objetivo: seguir creciendo como desarrollador full stack y construir soluciones innovadoras. <br>
-Extra: tambien disfruto la edicion de video, el streaming y los videojuegos.
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="40%" valign="middle">
+      <img src="Anime.png" width="280" alt="Anime illustration" />
+    </td>
+    <td align="left" width="60%" valign="middle">
+      <p>
+        Tengo 23 años y soy ingeniero de sistemas de la Universidad Cooperativa de Colombia.
+      </p>
+      <p>
+        Me apasiona el desarrollo de software, especialmente frontend y backend, y disfruto crear proyectos útiles, divertidos y enfocados en resolver problemas reales.
+      </p>
+      <p>
+        Me adapto rápido, aprendo con facilidad y disfruto escribir código ordenado, mejorar mis soluciones y usar Vibe Coding para prototipar ideas con más agilidad.
+      </p>
+      <p>
+        He participado en grupos de investigación, lo que fortaleció mi pensamiento analítico, el trabajo en equipo y la disciplina.
+      </p>
+      <p>
+        También me gusta estudiar, jugar videojuegos, editar contenido y hacer streams.
+      </p>
+      <p>
+        Soy una persona comprometida, curiosa y orientada al aprendizaje continuo.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
@@ -176,17 +185,27 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=560&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=580&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
-<div align="center">
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesergio3434xd-1&layout=compact&theme=transparent&hide_border=true&title_color=FF6A00&text_color=ffffff&icon_color=FF6A00" width="100%" alt="Top Langs" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thesergio3434xd-1&show_icons=true&theme=transparent&hide_border=true&title_color=FF6A00&text_color=ffffff&icon_color=FF6A00" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=Thesergio3434xd-1&theme=transparent&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thesergio3434xd-1&theme=transparent&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" width="85%" alt="Streak Stats" />
+</p>
 
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thesergio3434xd-1&theme=transparent" width="95%" alt="Profile Details" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thesergio3434xd-1&theme=transparent" width="85%" alt="Profile Details" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section separator" />
