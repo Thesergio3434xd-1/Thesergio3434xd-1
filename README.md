@@ -140,54 +140,51 @@ Ingles: en aprendizaje continuo con enfoque tecnico.
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=640&lines=%F0%9F%8C%9F+Featured+Projects" alt="Featured Projects" />
 </p>
 
-<table align="left" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="center" width="220" style="border:none;">
+    <td align="center" width="170" style="border:none; vertical-align:top;">
       <a href="https://github.com/Thesergio3434xd-1/MyHosp">
         <img src="https://img.shields.io/badge/MyHosp-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark&perline=4" height="34" />
       </a>
       <br><br>
-      <sub>Proyecto de gestion hospitalaria</sub>
+      <sub>Gestion hospitalaria</sub>
     </td>
-    <td align="center" width="220" style="border:none;">
+    <td align="center" width="170" style="border:none; vertical-align:top;">
       <a href="https://github.com/Thesergio3434xd-1/SpeciesCol">
         <img src="https://img.shields.io/badge/SpeciesCol-22C55E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,html,css,github&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=py,html,css,github&theme=dark&perline=4" height="34" />
       </a>
       <br><br>
-      <sub>Proyecto tematico de naturaleza y especies</sub>
+      <sub>Naturaleza y especies</sub>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="220" style="border:none;">
+    <td align="center" width="170" style="border:none; vertical-align:top;">
       <a href="https://github.com/Thesergio3434xd-1/RoBERTa">
         <img src="https://img.shields.io/badge/RoBERTa-F97316?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,vscode,github,linux&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=py,vscode,github,linux&theme=dark&perline=4" height="34" />
       </a>
       <br><br>
-      <sub>Repositorio relacionado con IA / NLP</sub>
+      <sub>IA / NLP</sub>
     </td>
-    <td align="center" width="220" style="border:none;">
+    <td align="center" width="170" style="border:none; vertical-align:top;">
       <a href="https://github.com/Thesergio3434xd-1/Cursos-Platzi">
         <img src="https://img.shields.io/badge/Cursos--Platzi-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark&perline=4" height="34" />
       </a>
       <br><br>
-      <sub>Repositorio de aprendizaje y practica</sub>
+      <sub>Aprendizaje y practica</sub>
     </td>
   </tr>
 </table>
