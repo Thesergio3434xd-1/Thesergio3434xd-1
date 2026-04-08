@@ -24,22 +24,22 @@
     </td>
     <td align="left" width="60%" valign="middle" style="border:none;">
       <p>
-        I am 23 years old and a Systems Engineering graduate from Universidad Cooperativa de Colombia.
+        I’m 23 years old and a Systems Engineering graduate from Universidad Cooperativa de Colombia.
       </p>
       <p>
-        I am passionate about software development, especially frontend and backend engineering, and I enjoy building useful, creative, and practical projects that solve real problems.
+        Software development is one of my biggest passions, especially frontend and backend engineering. Building useful, creative, and practical projects that solve real-world problems is something I genuinely enjoy.
       </p>
       <p>
-        I adapt quickly, learn easily, and enjoy writing clean code, improving my solutions, and using vibe coding to prototype ideas with more agility.
+        Quick to adapt and easy to teach, I like writing clean code, improving solutions, and using vibe coding to prototype ideas faster and more effectively.
       </p>
       <p>
-        I have taken part in research groups, which strengthened my analytical thinking, teamwork, and discipline.
+        Being part of research groups also helped strengthen analytical thinking, teamwork, and discipline.
       </p>
       <p>
-        I also enjoy studying, playing video games, editing content, and streaming.
+        Beyond tech, studying, playing video games, editing content, and streaming are all part of what I enjoy most.
       </p>
       <p>
-        I am committed, curious, and focused on continuous learning.
+        Committed, curious, and always aiming to grow, continuous learning is a key part of who I am.
       </p>
     </td>
   </tr>
