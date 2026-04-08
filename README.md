@@ -255,10 +255,6 @@ English: A1
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&repeat=false&width=620&lines=%F0%9F%93%9C+Certifications" alt="Certifications" />
 </p>
 
-<details>
-  <summary><strong>View certifications</strong></summary>
-  <br>
-
 - Personal Development G4 - UNO (2022)
 - Beginner Programming G4 - ONE (2023)
 - Business Agility G4 - UNO (2023)
@@ -270,30 +266,15 @@ English: A1
 - Online English Learning Strategies (2024)
 - NDG Linux Unhatched - Cisco Networking Academy (2024)
 
-</details>
-
-<p align="center"><strong>LinkedIn Profile</strong></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div
-  class="badge-base LI-profile-badge"
-  data-locale="es_ES"
-  data-size="large"
-  data-theme="light"
-  data-type="VERTICAL"
-  data-vanity="sergio-uribe-montealegre-791b85258"
-  data-version="v1">
-  <a
-    class="badge-base__link LI-simple-link"
-    href="https://www.linkedin.com/in/sergio-uribe-montealegre-791b85258/">
-    Sergio Uribe Montealegre
-  </a>
-</div>
+I also have many more certifications that are not listed here yet.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-uribe-montealegre-791b85258/">
-    View my LinkedIn profile
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=22&duration=2300&pause=700&color=0A66C2&center=true&vCenter=true&repeat=true&width=520&lines=%F0%9F%94%97+Connect+with+me+on+LinkedIn;%F0%9F%93%8C+View+my+full+certifications+there" alt="Animated LinkedIn button" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/sergio-uribe-montealegre-791b85258/">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
