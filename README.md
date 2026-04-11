@@ -133,7 +133,7 @@ Video editing, streaming, video games, anime, and digital content creation are a
 
 <p align="left">
 Spanish: Native <br>
-English: A1
+English: A2
 </p>
 
 <p align="center">
